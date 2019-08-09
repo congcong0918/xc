@@ -1,0 +1,29 @@
+<!--index.wxml-->
+<view class="container">
+  <view class="con-one"></view>
+  <view class="con-two">
+    <view class="con-two-one">
+      <image src="../../img/1.png"></image>
+      <text style="margin-left:12rpx">粥品香坊（大运村）</text>
+    </view>
+    <view class="con-two-two">
+      <text>蜂鸟专送</text>/<text>38分钟到达</text>
+    </view>
+    <view class="con-two-three">
+      <image src="../../img/3.png" style="width:20rpx;height:20rpx"></image>
+      <text style="margin-left:12rpx;line-height:18rpx">在线支付满28减5,满50减10</text>
+      <view class="fu">
+        <text>5个</text>
+        <text style="margin-left:7rpx">></text>
+      </view>
+    </view>
+  </view>
+  <view class="con-three">
+    <image src="../../img/4.png"></image>
+    <text>粥品香坊其烹饪粥料的秘方源于中国千年古法，再融合现代制作工艺...</text>
+    <text style="margin-left:20rpx">></text>
+  </view>
+</view>
+<view>
+  
+</view>
